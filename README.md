@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damiendemontis" alt="damiendemontis" /></a> </p>
 
-- 🔭 I’m currently working on AI / Unity [Inept-Intruder](https://github.com/DamienDemontis/Inept-Intruders)
+- 🔭 I’m currently working on top-secret products 🤫 
 
 - 🌱 I’m currently learning **LLM / FireStore / NodeJs / StripeAPI**
 
